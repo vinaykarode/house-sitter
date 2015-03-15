@@ -20,6 +20,6 @@ Meteor.startup(function() {
             HousesCollection.insert(houses.pop());
         }
     console.log('added fixtures');
-    }
+    } 
 });
     
